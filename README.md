@@ -13,11 +13,9 @@
   
   
   
-| About Me ☝🏻🤓 | Learning 📝 |
-
+| About me ☝🏻🤓 | Learning 📚 |
 |-|-|
-
-| Hello, I'm Tarkliyy, a 22 yo software engineer and backend/frontend programmer. Currently, I work full-time and also have freelance projects. <br>Mainly, I work using VSCODE, C#, and some .NET Tools/Frameworks, but my better tool is VSCODE.!</br> |  ![Lua](https://img.shields.io/badge/lua-%235C2D91.svg?style=for-the-badge&logo=lua&logoColor=white)  ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![C#](https://img.shields.io/badge/c%23-551DEF.svg?style=for-the-badge&logo=csharp&logoColor=white) ||
+| Hello, I'm Tarkliyy, a 22 yo software engineer and backend/frontend programmer. Currently, I work full-time and also have freelance projects. <br>Mainly, I work using VSCODE, C#, and some .NET Tools/Frameworks, but my better tool is VSCODE.!</br> |  ![Lua](https://img.shields.io/badge/lua-%235C2D91.svg?style=for-the-badge&logo=lua&logoColor=white)  ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![C#](https://img.shields.io/badge/c%23-551DEF.svg?style=for-the-badge&logo=csharp&logoColor=white)||
 
   
   
