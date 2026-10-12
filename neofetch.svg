@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="570" viewBox="0 0 830 570" role="img" aria-label="tarkliyy profile card">
+<title>tarkliyy@thailand</title>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;white-space:pre}
+.thai{font-family:Thonburi,"Leelawadee UI","Noto Sans Thai",ui-sans-serif,sans-serif;font-size:14px}
+.rang text{font-size:11px}
+.k{fill:#9A95AD}.v{fill:#E9E6F2}.a{fill:#FF8DB9}
+@media (prefers-reduced-motion:no-preference){
+.rang text{animation:ban .35s ease-out both;animation-delay:calc(var(--i)*45ms)}
+.kursor{animation:kip 1.1s steps(1) infinite}
+}
+@keyframes ban{from{opacity:0}to{opacity:1}}
+@keyframes kip{50%{opacity:0}}</style>
+<defs><linearGradient id="kradat" gradientUnits="userSpaceOnUse" x1="0" y1="40" x2="0" y2="486"><stop offset="0" stop-color="#FF8DB9"/><stop offset="1" stop-color="#B84F7C"/></linearGradient></defs>
+<rect x=".5" y=".5" width="829" height="569" rx="12" fill="#0C0B10" stroke="#6F6A82" stroke-opacity=".6"/>
+<g class="rang" fill="url(#kradat)"><text x="32" y="52" style="--i:0" xml:space="preserve">                     .%#.            .::.</text><text x="32" y="66" style="--i:1" xml:space="preserve">             .:       *@=   ...-=*#%@@%#+=::..-</text><text x="32" y="80" style="--i:2" xml:space="preserve">            .=.     -*@@*=+#@@@@@@@@@@@@@%%#*+: -=:</text><text x="32" y="94" style="--i:3" xml:space="preserve">          ..+-.. .++#@@@%@@@@@@@@@@@@%=.   :+=.-%#-</text><text x="32" y="108" style="--i:4" xml:space="preserve">    .-=++++*@%%@@@@@@@@@@@@@@@@@@@@@@@%*+*%*:-#@@@:</text><text x="32" y="122" style="--i:5" xml:space="preserve">    .      :@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text><text x="32" y="136" style="--i:6" xml:space="preserve">           -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-</text><text x="32" y="150" style="--i:7" xml:space="preserve"> -*-:::=+#%@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@*===-.</text><text x="32" y="164" style="--i:8" xml:space="preserve">.*%@@@@@%%@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@%=.</text><text x="32" y="178" style="--i:9" xml:space="preserve"> .+@@@@@@@@@@@@@@@@@@@@@+@@@@@@%@@@@@@@@@@@@@@@@@@@@@@#=</text><text x="32" y="192" style="--i:10" xml:space="preserve">   :*@@@@@@@@@@@@@@@@@@%.#@@@@@@@@@@@@@@@@@@@@@@@@@%#+==</text><text x="32" y="206" style="--i:11" xml:space="preserve">  :*@@@@@@@@@@@@@@@@@@@#:+%@@@@@@@@@@@%@@@@@@@@%*=-==</text><text x="32" y="220" style="--i:12" xml:space="preserve"> =%@%@@@@@@@@@@@@%@@@@@- -=@@@@@@@@@@@+@@@@@@@@%++-.</text><text x="32" y="234" style="--i:13" xml:space="preserve">=*=.:@@@@@@@@@@@@%@@#%=  .*#@@@@@@@@@@:*@@@@@@@@-.--</text><text x="32" y="248" style="--i:14" xml:space="preserve">    -@@@@@@@@@@@@%@#:-    -#@@@@@@@@@* .#@@@@@@@+. .</text><text x="32" y="262" style="--i:15" xml:space="preserve">    -@@@@@@@@@@@@%+.::-::. =@@@@@@@@@*:-:*@@@@@@%=:-:</text><text x="32" y="276" style="--i:16" xml:space="preserve">    .%@@@@@@@@@@@#.-+*##%#*-*@@#@@@@@%+=:-@@@@@@@%*=</text><text x="32" y="290" style="--i:17" xml:space="preserve">     -=#@@@@@@@@@%.----:.   .+%%+:=*#%%*#*@@@%#:.</text><text x="32" y="304" style="--i:18" xml:space="preserve">        -%@@#%@@%#* .....::.=+=.         -*@%:.</text><text x="32" y="318" style="--i:19" xml:space="preserve">         +==-=-## ......             ...:.-@-:</text><text x="32" y="332" style="--i:20" xml:space="preserve">         *::.++.: -=:.         ::       .--%.       .</text><text x="32" y="346" style="--i:21" xml:space="preserve">         :+-.-==:..            :.        -#-     ::.:</text><text x="32" y="360" style="--i:22" xml:space="preserve">           -==+====+-.                :=+=.      :: :.</text><text x="32" y="374" style="--i:23" xml:space="preserve">               ... .=+*#=      :-=++==-.     .:.</text><text x="32" y="388" style="--i:24" xml:space="preserve">                       =*    *++==:          ==-</text><text x="32" y="402" style="--i:25" xml:space="preserve">                 :::   =*   .%.               .</text><text x="32" y="416" style="--i:26" xml:space="preserve">                :+.-===*:   .#=.</text><text x="32" y="430" style="--i:27" xml:space="preserve">              .==.    .-===-..-+-..:.</text><text x="32" y="444" style="--i:28" xml:space="preserve">             -=:           :=====*+-===.</text><text x="32" y="458" style="--i:29" xml:space="preserve">           -+-                  :--.  -++.</text><text x="32" y="472" style="--i:30" xml:space="preserve">          =+.                           :*:</text><text x="32" y="486" style="--i:31" xml:space="preserve">         --                              -+</text></g>
+<text class="a" x="420" y="52" xml:space="preserve">tarkliyy@thailand<tspan class="kursor"> █</tspan></text>
+<text class="a" x="420" y="92">me</text>
+<line x1="448" y1="88" x2="798" y2="88" stroke="#6F6A82" stroke-opacity=".6"/>
+<text class="k" x="420" y="113">box</text>
+<text class="v" x="500" y="113">macOS</text>
+<text class="k" x="420" y="134">editor</text>
+<text class="v" x="500" y="134">VS Code</text>
+<text class="k" x="420" y="155">online</text>
+<text class="v" x="500" y="155">4y 9m · since 2021-12-29</text>
+<text class="k" x="420" y="176">job</text>
+<text class="v" x="500" y="176">software engineer + freelance</text>
+<text class="a" x="420" y="215">code</text>
+<line x1="464" y1="211" x2="798" y2="211" stroke="#6F6A82" stroke-opacity=".6"/>
+<text class="k" x="420" y="236">daily</text>
+<text class="v" x="500" y="236">Lua, C#, TS, JS, Python</text>
+<text class="k" x="420" y="257">stack</text>
+<text class="v" x="500" y="257">FiveM/RedM, React, Vue, .NET</text>
+<text class="a" x="420" y="296">reach</text>
+<line x1="472" y1="292" x2="798" y2="292" stroke="#6F6A82" stroke-opacity=".6"/>
+<text class="k" x="420" y="317">mail</text>
+<text class="v" x="500" y="317">peachchziza@gmail.com</text>
+<text class="k" x="420" y="338">fb, ig</text>
+<text class="v" x="500" y="338">tarkliyy</text>
+<text class="a" x="420" y="377">github</text>
+<line x1="480" y1="373" x2="798" y2="373" stroke="#6F6A82" stroke-opacity=".6"/>
+<text class="k" x="420" y="398">repos</text>
+<text class="v" x="500" y="398">186 (private + public)</text>
+<text class="k" x="420" y="419">stars</text>
+<text class="v" x="500" y="419">4</text>
+<text class="k" x="420" y="440">followers</text>
+<text class="v" x="500" y="440">18</text>
+<line x1="32" y1="512" x2="798" y2="512" stroke="#6F6A82" stroke-opacity=".6"/>
+<text class="thai v" x="32" y="540">&gt; กูนี่แหละ Batman ในชีวิตจริงแทนที่กูจะล้างแค้นกูล้างจาน</text>
+</svg>
