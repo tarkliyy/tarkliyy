@@ -3,5 +3,3 @@
 software engineer + freelance. Lua, C#, TypeScript, JavaScript, Python. FiveM / RedM, React, Vue, Tailwind, .NET.
 
 mail: peachchziza@gmail.com · fb / ig: tarkliyy
-
-> กูนี่แหละ Batman ในชีวิตจริงแทนที่กูจะล้างแค้นกูล้างจาน
