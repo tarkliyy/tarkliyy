@@ -42,6 +42,7 @@ const CSS = `text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospa
 
 export function bikin({ stat, rang, today = new Date() }) {
   chek(stat)
+  if (!Array.isArray(rang) || rang.length < 20) throw new Error("rang too short")
   const meaw = [
     ["head", "me"],
     ["row", "box", "macOS"],
@@ -58,6 +59,7 @@ export function bikin({ stat, rang, today = new Date() }) {
     ["row", "repos", `${stat.repos} (private + public)`],
     ["row", "stars", stat.stars],
     ["row", "followers", stat.followers],
+    ["row", "updated", today.toISOString().slice(0, 10)],
   ]
   let y = TOPKUE + 22
   const info = []

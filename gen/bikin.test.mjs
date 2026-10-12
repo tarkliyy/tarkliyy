@@ -40,11 +40,17 @@ test("portrait lines stay inside the card", () => {
 test("computed values show up", () => {
   assert.match(svg, /4y 9m · since 2021-12-29/)
   assert.match(svg, /186 \(private \+ public\)/)
+  assert.match(svg, />2026-10-12</)
 })
 
 test("xml special chars are escaped", () => {
-  const out = bikin({ stat, rang: ["<&>"], today: new Date("2026-10-12T00:00:00Z") })
+  const out = bikin({ stat, rang: [...rang.slice(0, 20), "<&>"], today: new Date("2026-10-12T00:00:00Z") })
   assert.ok(out.includes("&lt;&amp;&gt;"))
+})
+
+test("short or empty portrait throws", () => {
+  assert.throws(() => bikin({ stat, rang: [] }), /rang/)
+  assert.throws(() => bikin({ stat, rang: rang.slice(0, 5) }), /rang/)
 })
 
 test("missing stat field throws", () => {

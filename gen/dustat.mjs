@@ -38,9 +38,10 @@ export async function dustat(token, login) {
   if (!token) throw new Error("no token")
   const a = await tham(
     token,
-    `query($login:String!){user(login:$login){createdAt followers{totalCount} repositories(ownerAffiliations:OWNER){totalCount}}}`,
+    `query($login:String!){user(login:$login){createdAt followers{totalCount} repositories(ownerAffiliations:OWNER){totalCount} lap:repositories(ownerAffiliations:OWNER,privacy:PRIVATE){totalCount}}}`,
     { login },
   )
+  if (lek(a.user.lap.totalCount, "private repos") === 0) throw new Error("token cannot see private repos")
   const since = String(a.user.createdAt).slice(0, 10)
   if (!/^\d{4}-\d{2}-\d{2}$/.test(since)) throw new Error("bad date: createdAt")
   return {
